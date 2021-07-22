@@ -1,0 +1,11 @@
+p{
+	color:blue;font-family: Arial;font-style: Oblique;font-varient: small caps;font-size: 10px;
+}
+h1{background: #B3B3B3;font-size: 110%;color: #b23f66;text-align: center;font-varient: small caps}
+div{font-size: 200%}
+header{font-size: 180%;background: #00b7EA;color: #6fdd42;text-align: center;font-varient: small caps}
+details{font-size: 120%;font-varient: small caps;background: #44444b;color: #2323bb;text-align: center}
+summary{font-size: 100%;color: #34bbde;text-align: right;background: #4daa33}
+div{background: #44ddea;height: 10%;width: 10%}
+
+div{display: inline-block;float: left}
